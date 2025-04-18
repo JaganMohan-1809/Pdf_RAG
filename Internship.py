@@ -1,3 +1,4 @@
+
 # Multi PDF RAG App with Ollama
 # This is a simple Retrieval-Augmented Generation (RAG) app using Streamlit, Langchain, and Ollama.
 
@@ -141,6 +142,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
